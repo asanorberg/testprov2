@@ -1,0 +1,17 @@
+@tailwind components;
+@tailwind utilities;
+
+.container {
+  width: 400px;
+  padding: 20px;
+  height: 400px;
+  background-color: pink;
+}
+
+.flex {
+  display: flex;
+}
+
+ul {
+  list-style: none;
+}
